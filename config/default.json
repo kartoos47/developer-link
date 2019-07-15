@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://kartikey47:kartikey47@devconnector-nmhih.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://kartikey47:kartikey47@devconnector-nmhih.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
