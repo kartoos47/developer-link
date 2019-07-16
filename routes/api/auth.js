@@ -64,6 +64,7 @@ router.post(
         }
       };
 
+      //Creating and Signing json web token
       jwt.sign(
         payload,
         config.get("jwtSecret"),

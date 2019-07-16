@@ -3,7 +3,7 @@ const connectDB = require("./config/db");
 
 const app = express();
 
-//Connect Databse
+//Connect Database
 connectDB();
 
 //Init Middleware - bodyParser
