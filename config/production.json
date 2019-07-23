@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://kartikey47:kartikey47@devconnector-nmhih.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "c78017f2d9eb932d07b0",
+  "githubSecret": "bd8940af04f4b53815a8f4657388ac6b99786b7c"
+}
